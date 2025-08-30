@@ -1,5 +1,4 @@
-  
- AI-Driven Threat Vision
+AI-Driven Threat Vision
 
 Project Overview
 
@@ -8,9 +7,6 @@ Project Overview
 Installation Guide
 
 Step 1: Clone the Repository
-
-git clone   https://github.com/your-username/ai-driven-threat-vision.git
-cd ai-cybersecurity-threat-detection
 
 Step 2: Install Dependencies
 
