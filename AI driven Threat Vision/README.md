@@ -9,7 +9,7 @@ Installation Guide
 
 Step 1: Clone the Repository
 
-git clone https://github.com/your-username/ai-cybersecurity-threat-detection.git
+git clone   https://github.com/your-username/ai-driven-threat-vision.git
 cd ai-cybersecurity-threat-detection
 
 Step 2: Install Dependencies
